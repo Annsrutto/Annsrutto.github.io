@@ -74,6 +74,10 @@ nav ul li a {
   border-radius: 4px;
 }
 
+.btn:hover {
+  background-color: #333;
+}
+
 #intro img {
   max-width: none;
   width: 100%;
